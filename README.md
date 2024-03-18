@@ -17,6 +17,7 @@
     }
     .heart {
         cursor: pointer;
+        font-size: 100px; /* Adjust the size of the heart here */
     }
 </style>
 </head>
@@ -32,3 +33,4 @@
 
 </body>
 </html>
+
